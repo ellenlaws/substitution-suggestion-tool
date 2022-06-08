@@ -1,0 +1,17 @@
+ORDERS.PRODUCT_ID,ORDERS.PRODUCT_NAME,ORDERS.SUB_OFFERED,SUB_PRODUCT_ID,SUB.PRODUCT_NAME,SUB.SUB_ACCEPTED
+156,Tinned Pineapple,TRUE,546,Organic Fresh Pineapple,TRUE
+156,Tinned Pineapple,TRUE,546,Organic Fresh Pineapple,TRUE
+156,Tinned Pineapple,TRUE,546,Organic Fresh Pineapple,FALSE
+156,Tinned Pineapple,TRUE,670,Value Fresh Pineapple,TRUE
+156,Tinned Pineapple,TRUE,670,Value Fresh Pineapple,TRUE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,FALSE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,FALSE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,FALSE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,FALSE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,FALSE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,TRUE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,TRUE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,TRUE
+156,Tinned Pineapple,TRUE,800,Tinned Peaches,TRUE
+156,Tinned Pineapple,FALSE,null,null,null
+156,Tinned Pineapple,FALSE,null,null,null
